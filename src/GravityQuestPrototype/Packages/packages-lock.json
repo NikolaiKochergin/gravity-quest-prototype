@@ -293,6 +293,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.verve-place.yandexgames": {
+      "version": "https://github.com/NikolaiKochergin/yandex-games-sdk.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e73c7c61df2754917fa1ef3cbcdd33edba2a8e66"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
